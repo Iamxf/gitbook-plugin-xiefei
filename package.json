@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-xiefei",
+  "version": "1.0.0",
+  "description": "test gitbook plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamxf/gitbook-plugin-xiefei.git"
+  },
+  "author": "xiefei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamxf/gitbook-plugin-xiefei/issues"
+  },
+  "homepage": "https://github.com/Iamxf/gitbook-plugin-xiefei#readme",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  }
+}
